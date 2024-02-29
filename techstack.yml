@@ -2,7 +2,7 @@ repo_name: DannaEWaltz/phase-4-validation-messages-and-error-handling
 report_id: 9dafa9696aa3f65941d532269d54d70e
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T05:58:17+00:00'
+timestamp: '2024-02-29T19:50:58+00:00'
 requested_by: lizbur10
 provider: github
 branch: main
@@ -206,6 +206,13 @@ tools:
   detection_source: Gemfile
   last_updated_by: ihollander
   last_updated_on: 2021-05-09 10:14:14.000000000 Z
+  vulnerabilities:
+  - name: Rack CORS Middleware has Insecure File Permissions
+    cve_id: CVE-2024-27456
+    cve_url: https://github.com/advisories/GHSA-785g-282q-pwvx
+    detected_date: Feb 27
+    severity: moderate
+    first_patched: 
 - name: sqlite3
   description: This module allows Ruby programs to interface with the SQLite3 database
     engine
