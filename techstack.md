@@ -3,15 +3,15 @@
 ## Tech Stack
 DannaEWaltz/phase-4-validation-messages-and-error-handling is built on the following main stack:
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
-- [Puma](http://puma.io/) – Web Servers
-- [SQLite](http://www.sqlite.org/) – Databases
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - [styled-components](https://styled-components.com) – JavaScript Framework Components
+- [SQLite](http://www.sqlite.org/) – Databases
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Puma](http://puma.io/) – Web Servers
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 DannaEWaltz/phase-4-validation-messages-and-error-handling is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DannaEWaltz/phase-4-validation-messages-and-error-handling](https://github.com/DannaEWaltz/phase-4-validation-messages-and-error-handling)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|02/02/24 <br/>Report generated|
+|22<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -169,7 +169,7 @@ Full tech stack [here](/techstack.md)
 |:------|:------|:------|:------|:------|:------|
 |[byebug](https://rubygems.org/byebug)|v11.1.3|05/09/21|ihollander |BSD-2-Clause|N/A|
 |[listen](https://rubygems.org/listen)|v3.5.1|05/09/21|ihollander |MIT|N/A|
-|[rack-cors](https://rubygems.org/rack-cors)|v1.1.1|05/09/21|ihollander |MIT|N/A|
+|[rack-cors](https://rubygems.org/rack-cors)|v1.1.1|05/09/21|ihollander |MIT|[CVE-2024-27456](https://github.com/advisories/GHSA-785g-282q-pwvx) (Moderate)|
 |[sqlite3](https://rubygems.org/sqlite3)|v1.4.2|05/09/21|ihollander |BSD-3-Clause|N/A|
 |[tzinfo-data](https://rubygems.org/tzinfo-data)|N/A|05/09/21|ihollander |MIT|N/A|
 
